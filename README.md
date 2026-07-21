@@ -12,3 +12,5 @@ Practical projects and notebooks showcasing real-world data wrangling, feature e
 - Matplotlib / Seaborn
 - Jupyter Notebooks
 
+## Author
+
